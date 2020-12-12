@@ -1,4 +1,4 @@
-from project.factory.factory import Factory
+from exam_project.project.factory.factory import Factory
 
 
 class EggFactory(Factory):
